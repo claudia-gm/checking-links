@@ -19,4 +19,4 @@ As I mentioned previously, this is a work in progress.
 
 Currently I'm working on how to connect the database to the scala program in order to store inputs/outputs.
 
-The file **checkWebpage.Scala** contains the core of my program.
+The file **CheckWebpage.scala** contains the core of my program. 
